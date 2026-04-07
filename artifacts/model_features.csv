@@ -1,0 +1,50 @@
+feature,importance
+num__tenure,20.52878767429102
+cat__internetservice_Fiber optic,15.596912010584159
+cat__contract_Month-to-month,13.788922941929567
+cat__contract_Two year,8.506974421240054
+num__totalcharges,7.558202665100506
+num__monthlycharges,6.687589460028552
+cat__paymentmethod_Electronic check,6.496365348303197
+cat__multiplelines_No,2.1109038595143277
+cat__internetservice_No,1.4603571744715724
+cat__streamingtv_No,1.3991856655239845
+cat__paperlessbilling_Yes,1.1822491315534216
+cat__seniorcitizen_old,1.1739301366337205
+cat__paperlessbilling_No,1.1664269306146913
+cat__onlinesecurity_No,1.1184161881927044
+cat__cust-loyality_New,1.0982564921721736
+cat__internetservice_DSL,0.9987327074495735
+cat__streamingmovies_Yes,0.997858155882984
+cat__dependents_Yes,0.8254498236947454
+cat__streamingmovies_No,0.7980646181102237
+cat__streamingtv_Yes,0.7355759397584115
+num__subscription_count,0.6777316126199692
+cat__contract_One year,0.5080702568002674
+cat__onlinesecurity_Yes,0.5027386396837342
+cat__techsupport_No,0.4854010125037027
+cat__seniorcitizen_youth,0.3638897874103535
+cat__family_member_Married With Dependents ,0.284363989602603
+cat__onlinebackup_No,0.27443547557539427
+cat__dependents_No,0.26764402759823136
+cat__paymentmethod_Mailed check,0.25086521935946254
+cat__paymentmethod_Credit card (automatic),0.24874106273013966
+cat__phoneservice_No,0.2383727034886747
+cat__phoneservice_Yes,0.18578613790244286
+cat__cust-loyality_Somewhat Loyal,0.16845663616844522
+cat__paymentmethod_Bank transfer (automatic),0.14334672648425165
+cat__cust-loyality_Loyal,0.1327992599894277
+cat__multiplelines_Yes,0.13034101260952086
+cat__multiplelines_unknown,0.11846667685082188
+cat__family_member_Single,0.10748276490055575
+cat__deviceprotection_Yes,0.10091062816936484
+cat__techsupport_Yes,0.0974649544756449
+cat__onlinebackup_Yes,0.09607729272732538
+cat__family_member_Single With Dependents,0.08701605907002478
+cat__deviceprotection_No,0.07426655489441783
+cat__gender_Male,0.06583122268298439
+cat__partner_Yes,0.05655883605207914
+cat__gender_Female,0.05224103685307055
+cat__family_member_Married,0.04035669879432332
+cat__partner_No,0.011182368953157483
+cat__cust-loyality_Very Loyal,0.0

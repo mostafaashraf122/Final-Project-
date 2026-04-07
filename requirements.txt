@@ -1,0 +1,10 @@
+catboost>=1.2
+imbalanced-learn>=0.14
+ipykernel>=6.29
+jupyterlab>=4.0
+joblib>=1.5
+numpy>=1.26
+pandas>=2.2
+plotly>=5.0
+scikit-learn==1.6.1
+streamlit>=1.40
