@@ -140,6 +140,25 @@ artifacts/model_features.csv
 cleaned_data.csv
 ```
 
+## Deploy on Streamlit Community Cloud
+
+Use these settings when creating the app:
+
+- Repository: `mostafaashraf122/Final-Project-`
+- Branch: `main`
+- Main file path: `app/model_streamlit_app.py`
+
+This repo now includes:
+
+- `requirements.txt` for Python package installation
+- `runtime.txt` with `python-3.11` so deployment uses a compatible Python version
+
+If deployment fails, the first thing to check is that Streamlit Cloud is reading:
+
+- `requirements.txt`
+- `runtime.txt`
+- `app/model_streamlit_app.py`
+
 ## Example Manual Testing Flow
 
 1. Open the Streamlit app.
